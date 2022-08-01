@@ -1,6 +1,6 @@
 Hello there! 👋
 
-> Passionate web developer. The main area of my experise are PHP, together with Larvel, MySQL.
+> Passionate web developer. The main area of my expertise are PHP, together with Laravel, MySQL.
 Interested in constant learning practice.
 
 #### 📚  Looking for my Resume? -> 	:page_facing_up: https://resume.io/r/gbBfmDKZA
