@@ -3,8 +3,6 @@ Hello there! 👋
 > Passionate web developer. The main area of my expertise are PHP, together with Laravel, MySQL.
 Interested in constant learning practice.
 
-#### 📚  Looking for my Resume? -> 	:page_facing_up: https://resume.io/r/gbBfmDKZA
-
 📫 Reach me through [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kristaps-lidacis/)
 
 
